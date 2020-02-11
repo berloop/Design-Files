@@ -2,3 +2,4 @@ intro_slider: ^1.0.8
 intro_views_flutter 2.8.0 with animation.
 pull_to_refresh 1.5.8
 https://medium.com/flutter-community/flutter-implementing-google-sign-in-71888bca24ed
+https://medium.com/@worthply/material-bottomappbar-in-flutter-a9c780e62fcc
