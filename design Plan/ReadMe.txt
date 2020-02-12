@@ -20,6 +20,7 @@ Backend: Custom REST API For Destinations images and Info.
 SDK: Flutter.
 Maps Service: Google Maps.
 Colour Theme: Muted Green.
+Other Colour Scheme: https://yeun.github.io/open-color/
 ..........................................
 Special Features
 .............
