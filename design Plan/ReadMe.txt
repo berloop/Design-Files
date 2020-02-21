@@ -23,6 +23,7 @@ Maps Service: Google Maps.
 Colour Theme: Muted Green.
 Other Colour Scheme: https://yeun.github.io/open-color/
 ..........................................
+website/Blog For Travel News and more: https://wanderland.qodeinteractive.com/ template! ?(after release)
 Special Features
 .............
 Weather Conditions Prediction. (AccuWeather)
